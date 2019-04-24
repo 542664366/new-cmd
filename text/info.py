@@ -9,3 +9,6 @@ for i in range(5):
 	print(i)
 gaoshenghedahaoren 
 
+w s ni d laoban
+
+
