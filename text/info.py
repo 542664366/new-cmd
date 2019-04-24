@@ -7,4 +7,5 @@ number = 50
 number = 505050505050
 for i in range(5):
 	print(i)
+gaoshenghedahaoren 
 
