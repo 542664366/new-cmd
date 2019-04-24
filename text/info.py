@@ -6,5 +6,6 @@ number4 = 40
 number = 50
 number = 505050505050
 for i in range(5):
-	print(i)
+	print(i)1
+w s ni d laoban
 
