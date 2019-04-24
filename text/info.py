@@ -10,5 +10,5 @@ for i in range(5):
 gaoshenghedahaoren 
 
 w s ni d laoban
-
+number6 = 666
 
